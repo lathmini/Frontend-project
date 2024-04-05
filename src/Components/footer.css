@@ -1,0 +1,191 @@
+
+  /* Footer.css */
+
+  .footer {
+  
+
+
+    /* Footer */
+
+    background: #6B3CC9;
+    color: #fff;
+    padding: 20px 0;
+    height: 266px;
+left: 99px;
+margin-top: 1500px;
+
+   
+
+  }
+  
+
+
+.footer-section p{
+  /* Frame 500 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+color: #FFFFFF;
+
+margin: 0 auto;
+width: 413px;
+height: 102px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+
+}
+
+.footer-section1 h3{
+ 
+
+/* Our Technologies */
+
+width: 179px;
+height: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+
+
+    
+
+}
+
+ .footer-section1 ul{
+ 
+
+/* Frame 501 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+color: #FFFFFF;
+width: 56px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+list-style: none;
+  padding: 0;
+
+ }
+
+.footer-section2 ul{
+  list-style: none;
+  padding: 0;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+color: #FFFFFF;
+width: 197px;
+height: 129px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .footer-item {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .footer-item h4 {
+    margin-bottom: 10px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+ 
+  .footer-section2 h3{
+    /* Our Services */
+
+width: 132px;
+height: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+  }
+
+  .footer-section4 p{
+  /* Frame 504 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 257px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+  }

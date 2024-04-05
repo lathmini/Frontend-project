@@ -1,0 +1,48 @@
+/* NavigationBar.css */
+
+.navbar {
+  margin-top: 0; /* Remove any top margin */
+}
+
+.container-fluid {
+  position: absolute;
+  width: 1440px fit-content;
+  height: 77px;
+  left: 0px;
+  top: 0px;
+  background: #6B3CC9;
+
+}
+
+.navbar-nav {
+  display: flex;
+  width: Hug (381px)px;
+  height: Hug (17px)px;
+  opacity: 0px;
+  
+}
+
+.nav-item {
+  display: flex;
+  padding-left: 180px;
+  gap: 8px;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 16.94px;
+text-align: left;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 26px 80px;
+
+}
+
+
+
+
